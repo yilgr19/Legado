@@ -1,0 +1,24 @@
+{
+  "name": "legado",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilgr19/Legado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yilgr19/Legado/issues"
+  },
+  "homepage": "https://github.com/yilgr19/Legado#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.38.0",
+    "globals": "^16.4.0"
+  }
+}
